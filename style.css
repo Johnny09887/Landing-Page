@@ -146,3 +146,28 @@ h2 {
   gap: 60px;
   margin: 50px 200px 100px;
 }
+
+/* three-column section */
+
+.three-column-section {
+  background-color: var(--color-grey);
+  padding: 100px 400px;
+}
+
+.wrap-quote {
+  max-width: 816px;
+  margin: auto;
+}
+
+.size {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.wrap-cite {
+  text-align: right;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
