@@ -185,3 +185,17 @@ h2 {
   justify-content: space-around;
   align-items: center;
 }
+
+/* Footer section */
+
+.menu-footer {
+  background-color: var(--color-blue);
+}
+
+.footer-creds {
+  color: var(--color-white);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
